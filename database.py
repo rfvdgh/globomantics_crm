@@ -1,4 +1,4 @@
-v#!/usr/bin/env python
+#!/usr/bin/env python
 
 """
 Author: Nick Russo
